@@ -37,5 +37,4 @@ __pycache__/
 # Local editors/macos files
 .DS_Store
 .idea
-.codex-repo-context.json
 .env
